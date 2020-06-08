@@ -1,0 +1,2 @@
+# An-Automatic-Plant-Irrigation-System
+This project aims to help people and farmers to irrigate their plants in a modern and organized manner that helps reduce water consumption and increase plant productivity This project is a mobile application linked to the irrigation network on the farm or garden so that the user can know the water temperature and the soil moisture ratio. Based on these indicators he sends an order to open or close the water.
